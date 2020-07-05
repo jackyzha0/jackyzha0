@@ -6,4 +6,4 @@ I am a passionate software developer from :pushpin: Vancouver, Canada trying to 
 Learn more about me on my website: https://jzhao.xyz/
 
 ### what I'm working on
-Currently doing an internship @hootsuite, working on a mix of frontend and infrastructure! On the side, I'm contributing to @bentoML as part of the @MLH-Fellowship. In my spare time, I'm polishing up [reflect](https://github.com/jackyzha0/reflect-chrome) and [ctrl-v](https://github.com/jackyzha0/ctrl-v) and a host of other side-projects that may or may not see the light of day :)
+Currently doing an internship [@hootsuite](http://hootsuite.com/), working on a mix of frontend and infrastructure! On the side, I'm contributing to [@bentoML](https://github.com/bentoml/BentoML) as part of the [@MLH-Fellowship](https://fellowship.mlh.io/). In my spare time, I'm polishing up [reflect](https://github.com/jackyzha0/reflect-chrome) and [ctrl-v](https://github.com/jackyzha0/ctrl-v) and a host of other side-projects that may or may not see the light of day :)
