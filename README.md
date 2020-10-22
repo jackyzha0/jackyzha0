@@ -1,9 +1,9 @@
 ### :wave: hey there! i'm Jacky.
 (he/him)
 
-Welcome to my little corner of the internet! I'm a curious software developer interested in infrastructure, ml, cognitive systems, and accessible tech -- anything that can make tech work better for everyone. Currently, I'm based in Vancouver, BC and studying Computer Science @ubc.
+Welcome to my little corner of the internet! I'm a curious software developer interested in infrastructure, ml, cognitive systems, and accessible tech &mdash; anything that can make tech work better for everyone. Currently, I'm based in Vancouver, BC and studying Computer Science @ubc.
 
-In my spare time, you can find me faffing around on the climbing wall, shooting mediocre photos, or reading in a park somewhere! Recently, I've started a blog which I plan to write more about some of my thoughts on tech, personal projects, and general musings about the world.
+In my spare time, you can find me faffing around on the climbing wall, shooting mediocre photos, or reading in a park somewhere! Recently, I've started a blog on which I plan to write more about some of my thoughts on tech, personal projects, and general musings about the world.
 
 Learn more about me on my website: https://jzhao.xyz/
 
