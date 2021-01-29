@@ -7,8 +7,9 @@ Learn more about me on my website: https://jzhao.xyz/
 
 ```json
 {
-  "name" : "Jacky Zhao",
-  "student" : true,
-  "site" : "https://jzhao.xyz/",
-}
+  "bio": "ubc cs '23 // logistics @nwplus",
+  "currently": "@bentoML + @withfig",
+  "location": "Vancouver, Canada",
+  "name": "Jacky Zhao"
+ }
 ```
