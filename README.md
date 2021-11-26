@@ -1,14 +1,19 @@
-### :wave: Hey there! I'm Jacky.
-(he/him)
+> Towards unabashed excitement & paratelic play
 
-Welcome to my little corner of the internet! I'm interested in infrastructure (both community and software), cognitive systems, and ethical tech. Currently, I'm based in Vancouver, Canada and studying Computer Science @ubc.
+[[site](https://jzhao.xyz/)]
 
-Learn more about me on my [site](https://jzhao.xyz/).
-
-```json
-{
-  "bio": "ubc cs '23 // co-pres @nwplus",
-  "location": "Vancouver, Canada",
-  "name": "Jacky Zhao"
- }
+```
+                   .                          +
+      +                                                    .
+                                .
+           ,-,   .           
+          /.(
+          \ {               +                    .
+           `-`                     #o#
+                                 ####o#               *
+                               #o# \#|_#,#
+         .                   ###\ |/   #o#
+                              # {}{      #
+  *                              }{{              +
+                                ,'  `
 ```
