@@ -1,12 +1,3 @@
-> Towards unabashed excitement & paratelic play
+![https://jzhao.xyz/banner.svg](https://jzhao.xyz/banner.svg)
 
-[[site](https://jzhao.xyz/)]
-
-```
-                                                                                ## #
-                         ^                             ^                       # #                      
-      ^    ^            /|\            ^    ^         /|\ ^                   ##         ^              
-  ^  /|\  /|\  ^        /|\  ^     ^  /|\  /|\  ^     /|\/|\    ^          __||         /|\ ^    ^   ^ 
- /|\ /|\  /|\ /|\       /|\ /|\   /|\ /|\  /|\ /|\    /|\/|\   /|\        /.\__\        /|\/|\  /|\ /|\
- .|  #|.. .|& /|\        | #&|.   .|  #|.. .|& /|\     | #|.   /|\        |O | |        .| #|.. .|& /|\
-```
+independent research, distributed systems, interaction design, and enjoying sunsets
