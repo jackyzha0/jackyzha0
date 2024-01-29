@@ -1,6 +1,10 @@
 import { defineConfig, presets } from 'sponsorkit'
 
 export default defineConfig({
+  github: {
+    login: 'jackyzha0',
+    type: 'user'
+  },
   tiers: [
     {
       title: 'Past Sponsors',
@@ -9,6 +13,7 @@ export default defineConfig({
     },
     {
       title: 'Backers',
+      preset: presets.base,
     },
     {
       title: 'Sponsors',
