@@ -4,6 +4,6 @@
     "build": "sponsorkit"
   },
   "devDependencies": {
-    "sponsorkit": "latest"
+    "sponsorkit": "^0.8.5"
   }
 }
