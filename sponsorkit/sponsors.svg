@@ -16,12 +16,20 @@ text {
 }
 </style>
 <text x="400" y="40" text-anchor="middle" class="sponsorkit-tier-title">Sponsors</text><a href="https://obsidian.md" class="sponsorkit-link" target="_blank" id="obsidianmd">
-  <text x="400" y="133" text-anchor="middle" class="sponsorkit-name" fill="currentColor">Obsidia...</text>
+  <text x="360" y="133" text-anchor="middle" class="sponsorkit-name" fill="currentColor">Obsidia...</text>
   
   <clipPath id="cd056f2">
-    <rect x="375" y="65" width="50" height="50" rx="5" ry="5" />
+    <rect x="335" y="65" width="50" height="50" rx="5" ry="5" />
   </clipPath>
-  <image x="375" y="65" width="50" height="50" href="data:image/webp;base64,UklGRnICAABXRUJQVlA4IGYCAACQDgCdASpQAFAAPmkskkWkIqGY/JXQQAaEsgBnipnQfPbbgDeb950No/S0M7Ik5gIBYUCl5DujBinKclFKdMgkdqVco+PM5G7W2VIMC0TzJeDORiSF4KmgbfgCUQb8RQpwyFggswct1ilE4Y/ZAfG0f696BgqUd7nLTcWDGAD+/AvS74MPwN+zNu01X/EK58Vd3V3lcOargZmrqsBjmEzymm9iC4coB8la+wRKYPkx+f7ffqSxuvXUkrUnT5crPFEUyVCl3q9EuWnk38MxCfccLxIyYWDDaUEvLaNphYCxx7fPvqeZBZVM65IlqGLgBRmtMZsHPh/yz12fi2gY00th49wcRJRBH6iPH2j29Lhc8pj0+sXaZOUPU7zo68nkBmvYJK7d7v5wRm2C0m08h/BDcziJ3O7nTOey9S9qaPJoS1/VB9kE4ZpO2mhA3/ShA81AfhEV9ZJzYfNvBOFrEZswjmX3eQv7ItHbHPG/7SJdzAIBoH1liizuOYPrRaYZQRVn7NHoZfghtE6OFjnjYrbASNDs/kRCsxx69onvw++tjHAgVEyb+IP2+GgjfdnOcGDGNrdLd5hoYtEp/qPq0TEOZzLKvKLuzZFxcxXpUKmAE3lmYoy3pwcpQqcxmqdcepI0j+dnsDWQc53j6lwTk62bXqH9GdKT/RsTd5HXwVY3kZx20jtAS7jG6uPX/8rJpYCNLyjDNR1Njn2agOe5bXCEMCmXoiPWvSQ6Bl+iw+L/T9rs7/GuryV6y0ktZSYvvtz/T9puUmbwRWBUUrQ385/wXjMPC426IEGsUEMtYDV40F08TgIAAA==" clip-path="url(#cd056f2)"/>
+  <image x="335" y="65" width="50" height="50" href="data:image/webp;base64,UklGRnICAABXRUJQVlA4IGYCAACQDgCdASpQAFAAPmkskkWkIqGY/JXQQAaEsgBnipnQfPbbgDeb950No/S0M7Ik5gIBYUCl5DujBinKclFKdMgkdqVco+PM5G7W2VIMC0TzJeDORiSF4KmgbfgCUQb8RQpwyFggswct1ilE4Y/ZAfG0f696BgqUd7nLTcWDGAD+/AvS74MPwN+zNu01X/EK58Vd3V3lcOargZmrqsBjmEzymm9iC4coB8la+wRKYPkx+f7ffqSxuvXUkrUnT5crPFEUyVCl3q9EuWnk38MxCfccLxIyYWDDaUEvLaNphYCxx7fPvqeZBZVM65IlqGLgBRmtMZsHPh/yz12fi2gY00th49wcRJRBH6iPH2j29Lhc8pj0+sXaZOUPU7zo68nkBmvYJK7d7v5wRm2C0m08h/BDcziJ3O7nTOey9S9qaPJoS1/VB9kE4ZpO2mhA3/ShA81AfhEV9ZJzYfNvBOFrEZswjmX3eQv7ItHbHPG/7SJdzAIBoH1liizuOYPrRaYZQRVn7NHoZfghtE6OFjnjYrbASNDs/kRCsxx69onvw++tjHAgVEyb+IP2+GgjfdnOcGDGNrdLd5hoYtEp/qPq0TEOZzLKvKLuzZFxcxXpUKmAE3lmYoy3pwcpQqcxmqdcepI0j+dnsDWQc53j6lwTk62bXqH9GdKT/RsTd5HXwVY3kZx20jtAS7jG6uPX/8rJpYCNLyjDNR1Njn2agOe5bXCEMCmXoiPWvSQ6Bl+iw+L/T9rs7/GuryV6y0ktZSYvvtz/T9puUmbwRWBUUrQ385/wXjMPC426IEGsUEMtYDV40F08TgIAAA==" clip-path="url(#cd056f2)"/>
+</a>
+<a href="https://github.com/cbursasiu" class="sponsorkit-link" target="_blank" id="cbursasiu">
+  <text x="440" y="133" text-anchor="middle" class="sponsorkit-name" fill="currentColor">Cristian</text>
+  
+  <clipPath id="cc9f9cf">
+    <rect x="415" y="65" width="50" height="50" rx="25" ry="25" />
+  </clipPath>
+  <image x="415" y="65" width="50" height="50" href="data:image/webp;base64,UklGRt4DAABXRUJQVlA4INIDAAAQFACdASpQAFAAPm0qkkWkIqGVLP+EQAbEsYBOnPYp70gJ0wMRhXTzYYDmxsL5nktWC6Seg+ghIreKJZNqm/pvy6kHEXL38RxXy6ZtnSvLDL6a3+YNrf6RPjSNCfwla+XHavFBWgeGOR5CgPR432/A9Y7G7k7hnHR/ZsAV7uj8W2Cql8NPKMBh5H+Yo63LnKdeV7LQt8p0e9IW8HCuSOTzdurc51OzkzSAAP5nBi4I10aklD7ad763bCtdRh1rqcHzJ4gzv/HrIyl4U8+fRJGIoNryx/4K5aGOzRnvQh5jyRy0JAMYia8bkqxNhHcVBUiM7p8U37SfijecJLny7SOZ7sAY+DUN3Yux7wJ+g//4e5T6/cCvM6DuoPKi2YzVOTInFFq0CJH4OJB11SpWNKStqtOVmGcX7DACTh7dVoucLtnJ67h5OYYDbMfiKQTMlseFnYMancm0EyFsVX0G9PrjxFYbsAW9ucxi4dAdnCP7nsuTpnA00KtmAEDpMuCjTQwi9+8vlKGQ60vmqTycMBM7uN/bXG7oHuKrE0QhHysRNFetTdJicgJpup+YH7rUebDNB5KlJEhnFTY9YTdqXaIXktVuZPEkEjp2i+CHopFlvBvb64NO84KJyOJnGz8yTxxfJd1zBIFw/4bPXVwyT2BIUK8w6bq4gxhxpEvwWdIdETkoU/lTD58EZ+f/FWE1uscDh2kVnoTWKHoqb7SXfBPTgFDz4Ga0ZHFs1SsDRYUW+V/AswaPQON6B+NvDYG3JePFL8TUc35xZsA4IhYqL7hSvnxHw/tlZRzQ4c5SlfmOnLB//nKV0Dx98yFL/pRTTG996fNiG+NcZtjt3ZvloViE6FsEgeTjKop5HjCvAwFB8FSGscUM7olBoUVDPzHCe9HrtZ71noTipGhm0T76O1p9JAy9LVtoZmIzky6uIRP8BpQX8AfqLRMev9WkM9kCnY2bnbVENUOrjpQE5/A9NHhb5l4ZNVRULhDT/+vP1GfElLv5ayLlfjCUp9lQtIgIHEE30YeS1ZA8cPXSyVGXLFphTP0Aiaz09o12l2S8/Hc1C81bvmMZBevW7O1Gwh0cpvdPM+ffGDesVDlFHdxI+KMQqjM1BElx9j/cUoPbpYGT++327Vr3R/mldd7lJesgu/C/FrzrT2+eTBO6rvLqLDeadeh7nAOvEi/ZJ0ALLWIsi1A1Z4aWrMGpGYx7+Fis/mRXz1aZhOzKPmKR5INkTt7lRpbGN7WWeYJabPXpS32/vv5+G9BNARruPRDln2Z294RO7tLUEIL5Ou4vzY+lepCZgAA=" clip-path="url(#cc9f9cf)"/>
 </a><text x="400" y="185" text-anchor="middle" class="sponsorkit-tier-title">Backers</text><a href="https://github.com/cconrad" class="sponsorkit-link" target="_blank" id="cconrad">
   
   <clipPath id="c934f91">
